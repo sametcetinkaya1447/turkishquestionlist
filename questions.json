@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "question": "Hangi ülke en çok kahve üretir?",
+        "options": ["Kolombiya", "Vietnam", "Brezilya", "Etiyopya"],
+        "correct": 2
+      },
+      {
+        "question": "DNA'nın açılımı nedir?",
+        "options": ["Deoksiribo Nükleik Asit", "Dezoksiribo Nükleik Asit", "Deoksi Nükleer Asit", "Dezoksi Nükleer Asit"],
+        "correct": 0
+      },
+      {
+        "question": "Bir byte kaç bit'ten oluşur?",
+        "options": ["4", "8", "16", "32"],
+        "correct": 1
+      },
+      {
+        "question": "Pi sayısının ilk 4 hanesi nedir?",
+        "options": ["3.124", "3.139", "3.141", "3.144"],
+        "correct": 2
+      },
+      {
+        "question": "Hangisi bir programlama dili değildir?",
+        "options": ["Java", "HTML", "Python", "Ruby"],
+        "correct": 1
+      },
+      {
+        "question": "Ankaranın plaka kodu nedir?",
+        "options": ["33", "06", "07", "55"],
+        "correct": 1
+      },
+      {
+        "question": "2^8 kaçtır?",
+        "options": ["128", "256", "512", "1024"],
+        "correct": 1
+      },
+      {
+        "question": "RGB renk modelinde kaç farklı renk kombinasyonu vardır?",
+        "options": ["8,388,608", "16,777,216", "24,165,824", "32,554,432"],
+        "correct": 1
+      }
+    ]
+  }
