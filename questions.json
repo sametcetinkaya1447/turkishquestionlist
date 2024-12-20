@@ -39,6 +39,76 @@
         "question": "RGB renk modelinde kaç farklı renk kombinasyonu vardır?",
         "options": ["8,388,608", "16,777,216", "24,165,824", "32,554,432"],
         "correct": 1
-      }
+      },
+      {
+        "question": "Hangi gezegenin uydusu yoktur?",
+        "options": ["Mars", "Venüs", "Jüpiter", "Satürn"],
+        "correct": 1
+      },
+      {
+        "question": "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
+        "options": ["1920", "1921", "1922", "1923"],
+        "correct": 3
+      },
+      {
+        "question": "İlk bilgisayar programcısı kimdir?",
+        "options": ["Ada Lovelace", "Alan Turing", "Grace Hopper", "Katherine Johnson"],
+        "correct": 0
+      },
+      {
+        "question": "HTML nedir?",
+        "options": ["Bir programlama dili", "Bir veri tabanı", "Bir işaretleme dili", "Bir işletim sistemi"],
+        "correct": 2
+      },
+      {
+        "question": "And kapısı ne zaman çıkışta 1 verir?",
+        "options": ["Tüm girişler 0 olduğunda", "Tüm girişler 1 olduğunda", "Hiçbir zaman", "Her zaman"],
+        "correct": 1
+      },
+      {
+        "question": "Or kapısı ne zaman çıkışta 1 verir?",
+        "options": ["Girişlerden en az biri 1 olduğunda", "Girişlerden en az biri 0 olduğunda", "Hiçbir zaman", "Her zaman"],
+        "correct": 0
+      },
+      {
+        "question": "HTML hangi dilin kısaltmasıdır?",
+        "options": ["Hyper Text Markup Language", "Hyper Text Markup Linguistics", "Hyper Text Markup Linguistic", "Hyper Text Markup Linguistic"],
+        "correct": 0
+      },
+      {
+        "question": "HTML de paragraf oluşturmak için hangi etiket kullanılır?",
+        "options": ["<p>", "<par>", "<para>", "<parag>"],
+        "correct": 0
+      },
+      {
+        "question": "HTML de başlık oluşturmak için hangi etiket kullanılır?",
+        "options": ["<h>", "<head>", "<heading>", "<h1>"],
+        "correct": 3
+      },
+      {
+        "question": "Dünyanın en uzun nehri hangisidir?",
+        "options": ["Nil Nehri", "Amazon Nehri", "Yangtze Nehri", "Mississippi Nehri"],
+        "correct": 0
+      },
+      {
+        "question": "Dünyanın en derin noktası nerededir?",
+        "options": ["Mariana Çukuru", "Atlantik Çukuru", "Bermuda Çukuru", "Java Çukuru"],
+        "correct": 0
+      },
+      {
+        "question": "İlk modern Olimpiyat Oyunları hangi şehirde düzenlenmiştir?",
+        "options": ["Paris", "Atina", "Londra", "Berlin"],
+        "correct": 1
+      },
+      {
+        "question": "Türkiye'nin en büyük yüzölçümüne sahip ili hangisidir?",
+        "options": ["Ankara", "Konya", "Şanlıurfa", "Sivas"],
+        "correct": 1
+      },
+      {
+        "question": "Türkiye'nin ilk Cumhurbaşkanı kimdir?",
+        "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Celal Bayar", "Adnan Menderes"],
+        "correct": 1
+     }
     ]
   }
