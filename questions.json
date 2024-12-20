@@ -37,8 +37,8 @@
       },
       {
         "question": "RGB renk modelinde kaç farklı renk kombinasyonu vardır?",
-        "options": ["8,388,608", "16,777,216", "24,165,824", "32,554,432"],
-        "correct": 1
+        "options": ["8,388,608", "25,500,000", "16,777,216", "32,554,432"],
+        "correct": 2
       },
       {
         "question": "Hangi gezegenin uydusu yoktur?",
@@ -52,8 +52,8 @@
       },
       {
         "question": "İlk bilgisayar programcısı kimdir?",
-        "options": ["Ada Lovelace", "Alan Turing", "Grace Hopper", "Katherine Johnson"],
-        "correct": 0
+        "options": ["Katherine Johnson", "Alan Turing", "Grace Hopper", "Ada Lovelace"],
+        "correct": 3
       },
       {
         "question": "HTML nedir?",
@@ -77,8 +77,8 @@
       },
       {
         "question": "HTML de paragraf oluşturmak için hangi etiket kullanılır?",
-        "options": ["<p>", "<par>", "<para>", "<parag>"],
-        "correct": 0
+        "options": ["<par>", "<p>", "<para>", "<parag>"],
+        "correct": 1
       },
       {
         "question": "HTML de başlık oluşturmak için hangi etiket kullanılır?",
@@ -87,13 +87,13 @@
       },
       {
         "question": "Dünyanın en uzun nehri hangisidir?",
-        "options": ["Nil Nehri", "Amazon Nehri", "Yangtze Nehri", "Mississippi Nehri"],
-        "correct": 0
+        "options": ["Mississippi Nehri", "Amazon Nehri", "Yangtze Nehri", "Nil Nehri"],
+        "correct": 3
       },
       {
         "question": "Dünyanın en derin noktası nerededir?",
-        "options": ["Mariana Çukuru", "Atlantik Çukuru", "Bermuda Çukuru", "Java Çukuru"],
-        "correct": 0
+        "options": ["Bermuda Çukuru", "Atlantik Çukuru", "Mariana Çukuru", "Java Çukuru"],
+        "correct": 2
       },
       {
         "question": "İlk modern Olimpiyat Oyunları hangi şehirde düzenlenmiştir?",
@@ -107,8 +107,8 @@
       },
       {
         "question": "Türkiye'nin ilk Cumhurbaşkanı kimdir?",
-        "options": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Celal Bayar", "Adnan Menderes"],
-        "correct": 1
+        "options": ["İsmet İnönü", "Adnan Menderes", "Celal Bayar", "Mustafa Kemal Atatürk"],
+        "correct": 3
      }
     ]
   }
