@@ -158,7 +158,7 @@
       {
         "question": "HTML'de bir tablo oluşturmak için hangi etiket kullanılır?",
         "options": ["<tr>", "<tb>", "<table>", "<th>"],
-        "correct": 3
+        "correct": 2
       },
       {
         "question": "Bir işletim sistemi hangi görevi yerine getirir?",
