@@ -109,6 +109,131 @@
         "question": "Türkiye'nin ilk Cumhurbaşkanı kimdir?",
         "options": ["İsmet İnönü", "Adnan Menderes", "Celal Bayar", "Mustafa Kemal Atatürk"],
         "correct": 3
-     }
+      },
+      {
+        "question": "Türkiye'nin en büyük gölü hangisidir?",
+        "options": ["Van Gölü", "Beyşehir Gölü", "Tuz Gölü", "Gölcük Gölü"],
+        "correct": 0
+      },
+      {
+        "question": "İstanbul ne zaman fethedilmiştir?",
+        "options": ["1450", "1451", "1452", "1453"],
+        "correct": 3
+      },
+      {
+        "question": "1'in türevi kaçtır?",
+        "options": ["0", "1", "2", "3"],
+        "correct": 0
+      },
+      {
+        "question": "Hangisi sürüngen bir hayvan değildir?",
+        "options": ["Kertenkele", "Yılan", "Kuş", "Timsah"],
+        "correct": 2
+      },
+      {
+        "question": "Bir gün kaç saniyedir?",
+        "options": ["86,600", "86,500", "86,400", "86,700"],
+        "correct": 2
+      },
+      {
+        "question": "Hangi devre elemanı elektrik akımını sadece bir yönde iletir?",
+        "options": ["Kondansatör", "Diyot", "Transistör", "Bobin"],
+        "correct": 1
+      },
+      {
+        "question": "AC akımın frekansı Türkiye'de kaç Hz'dir?",
+        "options": ["25", "40", "50", "100"],
+        "correct": 3
+      },
+      {
+        "question": "Bir elektrik devresinde seri bağlı dirençlerin eşdeğer direnci nasıl hesaplanır?",
+        "options": ["Toplanarak", "Çarpılarak", "Ters çevrilip toplanarak", "Ters çevrilip çarpılarak"],
+        "correct": 0
+      },
+      {
+        "question": "Bir Karnaugh Haritası hangi amaçla kullanılır?",
+        "options": ["Mantık devrelerini basitleştirmek", "Devre elemanlarını bağlamak", "Güç kaynağını ölçmek", "Frekansı artırmak"],
+        "correct": 0
+      },
+      {
+        "question": "HTML'de bir tablo oluşturmak için hangi etiket kullanılır?",
+        "options": ["<tr>", "<tb>", "<table>", "<th>"],
+        "correct": 3
+      },
+      {
+        "question": "Bir işletim sistemi hangi görevi yerine getirir?",
+        "options": ["Veri depolamak", "Donanımı ve yazılımı yönetmek", "Sadece yazılımı çalıştırmak", "Donanım bileşenlerini değiştirmek"],
+        "correct": 1
+      },
+      {
+        "question": "HTML'de yorum satırı nasıl yazılır?",
+        "options": ["/* Yorum */", "// Yorum", "<!-- Yorum -->", "<% Yorum %>"],
+        "correct": 2
+      },
+      {
+        "question": "Hangisi işletim sisteminin temel bir görevidir?",
+        "options": ["Kullanıcı arayüzü sağlamak", "Devre elemanlarını bağlamak", "Elektrik akımını ölçmek",  "Frekansı artırmak"],
+        "correct": 0
+      },
+      {
+        "question": "XOR kapısının çıkışı ne zaman 1 olur?",
+        "options": ["Girişlerin tümü 1 olduğunda", "Girişlerin tümü 0 olduğunda", "Girişlerden yalnızca biri 1 olduğunda", "Girişlerin tümü aynı olduğunda"],
+        "correct": 2
+      },
+      {
+        "question": "Bir Half-Adder devresi hangi mantık kapıları içerir?",
+        "options": ["XOR ve AND", "OR ve NOT", "NAND ve NOR", "NOT ve XOR"],
+        "correct": 0
+      },
+      {
+        "question": "Aşşağıdakilerden hangisi en yüksek HEX değerine sahiptir?",
+        "options": ["#AA", "#BB", "#99", "#FF"],
+        "correct": 3
+      },
+      {
+        "question": "Türkiyenin en uzun sınır bağlantısına sahip olduğu ülke nedir?",
+        "options": ["Yunanistan", "Suriye", "İran", "Irak"],
+        "correct": 1
+      },
+      {
+        "question": "Hollanda'nın başkenti neresidir?",
+        "options": ["Amsterdam", "Rotterdam", "Lahey", "Utrecht"],
+        "correct": 0
+      },
+      {
+        "question": "Dünyanın en büyük okyanusu hangisidir?",
+        "options": ["Atlantik Okyanusu", "Hint Okyanusu", "Pasifik Okyanusu", "Arktik Okyanusu"],
+        "correct": 2
+      },
+      {
+        "question": "Bir dik üçgenin iç açıları toplamı kaç derecedir?",
+        "options": ["90°", "180°", "270°", "360°"],
+        "correct": 1
+      },
+      {
+        "question": "Bir kenar uzunluğu 5 cm olan bir kare, toplamda kaç cm² alana sahiptir?",
+        "options": ["10", "25", "50", "20"],
+        "correct": 1
+      },
+      {
+        "question": "DC ile AC voltaj arasındaki fark nedir?",
+        "options": ["DC sürekli, AC değişken voltajdır", "DC değişken, AC sürekli voltajdır", "DC ve AC aynıdır", "DC ve AC voltaj farkı yoktur"],
+        "correct": 0
+      },
+      {
+        "question": "Bir elektrik devresinde seri bağlı dirençlerin eşdeğer direnci nasıl hesaplanır?",
+        "options": ["Toplanarak", "Çarpılarak", "Ters çevrilip toplanarak", "Ters çevrilip çarpılarak"],
+        "correct": 0
+      },
+      {
+        "question": "NAND kapısı ne zaman çıkışta 1 verir?",
+        "options": ["Girişlerden en az biri 1 olduğunda", "Girişlerden en az biri 0 olduğunda", "Hiçbir zaman", "Her zaman"],
+        "correct": 1
+      },
+      {
+        "question": "NOR kapısı ne zaman çıkışta 1 verir?",
+        "options": ["Tüm girişler 0 olduğunda", "Tüm girişler 1 olduğunda", "Hiçbir zaman", "Her zaman"],
+        "correct": 0
+      }
     ]
   }
