@@ -1,0 +1,249 @@
+{
+  "questions": [
+    {
+      "question": "Bir dik üçgenin dik kenarları 3 cm ve 4 cm ise hipotenüs kaç cm'dir?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 0
+    },
+    {
+      "question": "2 + 2 × 2 işleminin sonucu kaçtır?",
+      "options": ["6", "8", "4", "10"],
+      "correct": 0
+    },
+    {
+      "question": "Bir dairenin çapı 10 cm ise yarıçapı kaç cm'dir?",
+      "options": ["5", "10", "15", "20"],
+      "correct": 0
+    },
+    {
+      "question": "12'nin karekökü kaçtır?",
+      "options": ["2√3", "3√2", "4", "6"],
+      "correct": 0
+    },
+    {
+      "question": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "options": ["90", "180", "270", "360"],
+      "correct": 1
+    },
+    {
+      "question": "5! (5 faktöriyel) kaçtır?",
+      "options": ["60", "120", "240", "720"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 3 katının 5 fazlası 20 ise bu sayı kaçtır?",
+      "options": ["3", "5", "7", "9"],
+      "correct": 1
+    },
+    {
+      "question": "Bir karenin bir kenarı 6 cm ise çevresi kaç cm'dir?",
+      "options": ["12", "18", "24", "36"],
+      "correct": 2
+    },
+    {
+      "question": "2³ + 3² işleminin sonucu kaçtır?",
+      "options": ["10", "13", "17", "25"],
+      "correct": 2
+    },
+    {
+      "question": "Bir dikdörtgenin uzun kenarı 10 cm, kısa kenarı 5 cm ise alanı kaç cm²'dir?",
+      "options": ["15", "30", "50", "100"],
+      "correct": 2
+    },
+    {
+      "question": "Bir sayının 2 katının 3 eksiği 11 ise bu sayı kaçtır?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    },
+    {
+      "question": "Bir küpün bir kenarı 4 cm ise hacmi kaç cm³'dür?",
+      "options": ["16", "32", "64", "128"],
+      "correct": 2
+    },
+    {
+      "question": "Bir sayının 4 katı 36 ise bu sayı kaçtır?",
+      "options": ["6", "9", "12", "18"],
+      "correct": 1
+    },
+    {
+      "question": "Bir üçgenin tabanı 8 cm ve yüksekliği 5 cm ise alanı kaç cm²'dir?",
+      "options": ["10", "20", "30", "40"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 3 fazlasının 2 katı 20 ise bu sayı kaçtır?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dairenin yarıçapı 7 cm ise çevresi kaç cm'dir? (π = 3 alınız)",
+      "options": ["21", "42", "63", "84"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 5 eksiği 12 ise bu sayı kaçtır?",
+      "options": ["7", "12", "17", "22"],
+      "correct": 2
+    },
+    {
+      "question": "Bir dikdörtgenin çevresi 24 cm ve uzun kenarı 8 cm ise kısa kenarı kaç cm'dir?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 2 katının 5 fazlası 25 ise bu sayı kaçtır?",
+      "options": ["5", "10", "15", "20"],
+      "correct": 1
+    },
+    {
+      "question": "Bir karenin alanı 49 cm² ise bir kenarı kaç cm'dir?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 3 katının 4 eksiği 14 ise bu sayı kaçtır?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1
+    },
+    {
+      "question": "Bir üçgenin iki açısı 45° ve 45° ise üçüncü açısı kaç derecedir?",
+      "options": ["45", "60", "90", "120"],
+      "correct": 2
+    },
+    {
+      "question": "Bir sayının 6 katı 54 ise bu sayı kaçtır?",
+      "options": ["6", "9", "12", "18"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dikdörtgenin alanı 48 cm² ve uzun kenarı 12 cm ise kısa kenarı kaç cm'dir?",
+      "options": ["2", "4", "6", "8"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 4 fazlasının 3 katı 30 ise bu sayı kaçtır?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dairenin çapı 14 cm ise yarıçapı kaç cm'dir?",
+      "options": ["5", "7", "10", "14"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 2 katının 7 eksiği 13 ise bu sayı kaçtır?",
+      "options": ["5", "10", "15", "20"],
+      "correct": 1
+    },
+    {
+      "question": "Bir küpün bir kenarı 5 cm ise hacmi kaç cm³'dür?",
+      "options": ["25", "50", "75", "125"],
+      "correct": 3
+    },
+    {
+      "question": "Bir sayının 3 katının 2 fazlası 20 ise bu sayı kaçtır?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1
+    },
+    {
+      "question": "Bir üçgenin tabanı 10 cm ve yüksekliği 6 cm ise alanı kaç cm²'dir?",
+      "options": ["15", "30", "45", "60"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 5 katı 45 ise bu sayı kaçtır?",
+      "options": ["5", "9", "12", "15"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dikdörtgenin çevresi 30 cm ve uzun kenarı 10 cm ise kısa kenarı kaç cm'dir?",
+      "options": ["3", "5", "7", "9"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 4 katının 3 eksiği 17 ise bu sayı kaçtır?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 1
+    },
+    {
+      "question": "Bir karenin çevresi 24 cm ise bir kenarı kaç cm'dir?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 2 katının 6 fazlası 24 ise bu sayı kaçtır?",
+      "options": ["6", "9", "12", "15"],
+      "correct": 1
+    },
+    {
+      "question": "Bir üçgenin iki açısı 30° ve 60° ise üçüncü açısı kaç derecedir?",
+      "options": ["60", "90", "120", "150"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 7 katı 49 ise bu sayı kaçtır?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dikdörtgenin alanı 60 cm² ve uzun kenarı 12 cm ise kısa kenarı kaç cm'dir?",
+      "options": ["3", "5", "7", "9"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 3 katının 5 fazlası 26 ise bu sayı kaçtır?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dairenin yarıçapı 6 cm ise çevresi kaç cm'dir? (π = 3 alınız)",
+      "options": ["18", "24", "36", "48"],
+      "correct": 2
+    },
+    {
+      "question": "Bir sayının 2 katının 8 eksiği 12 ise bu sayı kaçtır?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 2
+    },
+    {
+      "question": "Bir küpün bir kenarı 3 cm ise hacmi kaç cm³'dür?",
+      "options": ["9", "18", "27", "36"],
+      "correct": 2
+    },
+    {
+      "question": "Bir sayının 4 katının 2 fazlası 22 ise bu sayı kaçtır?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 1
+    },
+    {
+      "question": "Bir üçgenin tabanı 9 cm ve yüksekliği 4 cm ise alanı kaç cm²'dir?",
+      "options": ["12", "18", "24", "36"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 6 katı 72 ise bu sayı kaçtır?",
+      "options": ["10", "12", "14", "16"],
+      "correct": 1
+    },
+    {
+      "question": "Bir dikdörtgenin çevresi 36 cm ve uzun kenarı 12 cm ise kısa kenarı kaç cm'dir?",
+      "options": ["4", "6", "8", "10"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 5 katının 3 eksiği 27 ise bu sayı kaçtır?",
+      "options": ["4", "5", "6", "7"],
+      "correct": 2
+    },
+    {
+      "question": "Bir karenin çevresi 32 cm ise bir kenarı kaç cm'dir?",
+      "options": ["6", "8", "10", "12"],
+      "correct": 1
+    },
+    {
+      "question": "Bir sayının 3 katının 4 fazlası 25 ise bu sayı kaçtır?",
+      "options": ["5", "7", "9", "11"],
+      "correct": 1
+    }
+  ]
+}
