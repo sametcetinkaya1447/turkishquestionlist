@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correct": 1
+    },
+    {
+      "question": "Dünyanın en uzun nehri hangisidir?",
+      "options": ["Nil", "Amazon", "Mississippi", "Yangtze"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi gezegen Güneş Sistemi'ndeki en büyük gezegendir?",
+      "options": ["Mars", "Jüpiter", "Satürn", "Venüs"],
+      "correct": 1
+    },
+    {
+      "question": "İlk bilgisayar programcısı olarak kabul edilen kişi kimdir?",
+      "options": ["Alan Turing", "Ada Lovelace", "Bill Gates", "Steve Jobs"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke Eiffel Kulesi'ne ev sahipliği yapar?",
+      "options": ["İtalya", "Fransa", "Almanya", "İspanya"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi elementin kimyasal sembolü 'O'dur?",
+      "options": ["Altın", "Oksijen", "Gümüş", "Demir"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yıl Türkiye Cumhuriyeti kurulmuştur?",
+      "options": ["1920", "1921", "1922", "1923"],
+      "correct": 3
+    },
+    {
+      "question": "Hangi ülke piramitleriyle ünlüdür?",
+      "options": ["Meksika", "Mısır", "Hindistan", "Çin"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yazar 'Suç ve Ceza' romanını yazmıştır?",
+      "options": ["Lev Tolstoy", "Fyodor Dostoyevski", "Victor Hugo", "Charles Dickens"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke kangurularıyla ünlüdür?",
+      "options": ["Yeni Zelanda", "Avustralya", "Güney Afrika", "Kanada"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi şehir 'Big Apple' olarak bilinir?",
+      "options": ["Los Angeles", "Chicago", "New York", "Miami"],
+      "correct": 2
+    },
+    {
+      "question": "Hangi gezegen Güneş'e en yakındır?",
+      "options": ["Venüs", "Mars", "Merkür", "Dünya"],
+      "correct": 2
+    },
+    {
+      "question": "Hangi ülke 'Çin Seddi'ne ev sahipliği yapar?",
+      "options": ["Japonya", "Çin", "Hindistan", "Güney Kore"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Fe' sembolüyle gösterilir?",
+      "options": ["Altın", "Demir", "Gümüş", "Bakır"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke 'Samba' dansıyla ünlüdür?",
+      "options": ["Arjantin", "Brezilya", "Meksika", "Şili"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen halkalarıyla ünlüdür?",
+      "options": ["Jüpiter", "Satürn", "Uranüs", "Neptün"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yazar '1984' romanını yazmıştır?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi ülke 'Köprübaşı' dizisiyle ünlüdür?",
+      "options": ["Türkiye", "İsveç", "Danimarka", "Norveç"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Mavi Gezegen' olarak bilinir?",
+      "options": ["Dünya", "Neptün", "Uranüs", "Venüs"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi ülke 'Santorini' adasıyla ünlüdür?",
+      "options": ["İtalya", "Yunanistan", "İspanya", "Portekiz"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Au' sembolüyle gösterilir?",
+      "options": ["Gümüş", "Altın", "Bakır", "Platin"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke 'Kanguru' ve 'Koala' gibi hayvanlarla ünlüdür?",
+      "options": ["Yeni Zelanda", "Avustralya", "Güney Afrika", "Kanada"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Güneş Sistemi'nin en soğuk gezegenidir?",
+      "options": ["Uranüs", "Neptün", "Satürn", "Mars"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yazar 'Savaş ve Barış' romanını yazmıştır?",
+      "options": ["Fyodor Dostoyevski", "Lev Tolstoy", "Victor Hugo", "Charles Dickens"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke 'Pisa Kulesi'ne ev sahipliği yapar?",
+      "options": ["İtalya", "Fransa", "İspanya", "Portekiz"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Ag' sembolüyle gösterilir?",
+      "options": ["Altın", "Gümüş", "Bakır", "Platin"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke 'Machu Picchu' antik kentine ev sahipliği yapar?",
+      "options": ["Meksika", "Peru", "Şili", "Arjantin"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Güneş Sistemi'nin en küçük gezegenidir?",
+      "options": ["Mars", "Merkür", "Venüs", "Dünya"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yazar 'Don Kişot' romanını yazmıştır?",
+      "options": ["Miguel de Cervantes", "Victor Hugo", "Charles Dickens", "Lev Tolstoy"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi ülke 'Kremlin Sarayı'na ev sahipliği yapar?",
+      "options": ["Ukrayna", "Rusya", "Polonya", "Belarus"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Cu' sembolüyle gösterilir?",
+      "options": ["Altın", "Gümüş", "Bakır", "Demir"],
+      "correct": 2
+    },
+    {
+      "question": "Hangi ülke 'Büyük Kanyon'a ev sahipliği yapar?",
+      "options": ["Kanada", "ABD", "Meksika", "Brezilya"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Güneş Sistemi'nin en sıcak gezegenidir?",
+      "options": ["Merkür", "Venüs", "Mars", "Jüpiter"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi yazar 'Romeo ve Juliet' oyununu yazmıştır?",
+      "options": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi ülke 'Tac Mahal'e ev sahipliği yapar?",
+      "options": ["Pakistan", "Hindistan", "Bangladesh", "Nepal"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Na' sembolüyle gösterilir?",
+      "options": ["Nikel", "Sodyum", "Azot", "Neon"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi ülke 'Sidney Opera Binası'na ev sahipliği yapar?",
+      "options": ["Yeni Zelanda", "Avustralya", "Güney Afrika", "Kanada"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Güneş Sistemi'nin en hızlı dönen gezegenidir?",
+      "options": ["Jüpiter", "Satürn", "Merkür", "Venüs"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi yazar 'Ulysses' romanını yazmıştır?",
+      "options": ["James Joyce", "Virginia Woolf", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi ülke 'Kız Kulesi'ne ev sahipliği yapar?",
+      "options": ["Türkiye", "Yunanistan", "İtalya", "İspanya"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi element periyodik tabloda 'Hg' sembolüyle gösterilir?",
+      "options": ["Hidrojen", "Helyum", "Cıva", "Altın"],
+      "correct": 2
+    },
+    {
+      "question": "Hangi ülke 'Grand Canyon'a ev sahipliği yapar?",
+      "options": ["Kanada", "ABD", "Meksika", "Brezilya"],
+      "correct": 1
+    },
+    {
+      "question": "Hangi gezegen 'Güneş Sistemi'nin en büyük uydusu Ganymede'e sahiptir?",
+      "options": ["Jüpiter", "Satürn", "Uranüs", "Neptün"],
+      "correct": 0
+    },
+    {
+      "question": "Hangi yazar 'Anna Karenina' romanını yazmıştır?",
+      "options": ["Fyodor Dostoyevski", "Lev Tolstoy", "Victor Hugo", "Charles Dickens"],
+      "correct": 1
+    }
+  ]
+}
